@@ -1,0 +1,17 @@
+{
+    "name": "wp-auth0-rest-api-authentication",
+    "description": "A WP plugin for using the ",
+    "type": "wordpress-plugin",
+    "keywords" : [ "wordpress", "api", "auth0" ],
+    "authors": [
+        {
+            "name": "Kirk Mueller",
+            "email": "hello@kirkmueller.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "auth0/auth0-php": "^5.5"
+    }
+}
+
